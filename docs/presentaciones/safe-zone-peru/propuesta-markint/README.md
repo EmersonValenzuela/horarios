@@ -4,6 +4,9 @@
 
 Versión basada en el alcance actualizado: inversión fija de **S/ 3,500**, plazo de **6 semanas**, pagos de **40 % / 30 % / 30 %**, garantía de **60 días** y validez de **15 días** desde la emisión.
 
+
+La apertura presenta el valor de la solución para MARKINT y reconoce su experiencia con Buk. La inversión se muestra únicamente en la sección económica: página 4 de la propuesta y diapositiva 11 de la presentación. No se compromete una integración con Buk.
+
 ## Archivos para enviar y presentar
 
 - [Propuesta en PDF — 4 páginas](Safe_Zone_Peru_MARKINT_Propuesta.pdf)
