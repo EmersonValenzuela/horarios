@@ -2,7 +2,7 @@
 
 ## Versión actual para MARKINT
 
-[Ver la propuesta y presentación actualizadas](propuesta-markint/README.md) — S/ 3,500, seis semanas, firma electrónica de recepción y alcance actualizado.
+[Ver la propuesta y presentación actualizadas](propuesta-markint/README.md) — propuesta comercial y presentación revisadas para MARKINT.
 
 Los archivos de esta carpeta que se listan a continuación corresponden a versiones anteriores y se conservan como referencia. Para enviar al cliente, utilizar la versión actual enlazada arriba.
 
